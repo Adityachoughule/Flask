@@ -1,0 +1,8 @@
+.vscode
+Flaskenv/
+Flask_info.txt
+__pycache__
+*.pyc
+practice.py
+test_new.py
+Practice_trigger_stored_procedure.sql
